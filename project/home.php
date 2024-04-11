@@ -53,7 +53,7 @@ if(isset($_POST['add_to_cart'])){
 
    <div class="content">
       <h3>FURNITURE FIT FOR ROYALTY</h3>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, quod? Reiciendis ut porro iste totam.</p>
+      <p>Transform your home into a palace with furniture fit for royalty</p>
       <a href="about.php" class="white-btn">discover more</a>
    </div>
 
@@ -104,7 +104,7 @@ if(isset($_POST['add_to_cart'])){
 
       <div class="content">
          <h3>about us</h3>
-         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit quos enim minima ipsa dicta officia corporis ratione saepe sed adipisci?</p>
+         <p>Welcome to our online furniture shop! Discover quality pieces curated to elevate your living spaces. From cozy apartments to spacious homes, find the perfect blend of style and function for every space. Shop with confidence for an unmatched experience in quality and customer satisfaction.</p>
          <a href="about.php" class="btn">read more</a>
       </div>
 
@@ -116,7 +116,7 @@ if(isset($_POST['add_to_cart'])){
 
    <div class="content">
       <h3>have any questions?</h3>
-      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Atque cumque exercitationem repellendus, amet ullam voluptatibus?</p>
+      <p>Curious about our furniture or need assistance with your order? Don't hesitate to reach out! Our dedicated team is here to answer any questions you have. Contact us anytime.</p>
       <a href="contact.php" class="white-btn">contact us</a>
    </div>
 
